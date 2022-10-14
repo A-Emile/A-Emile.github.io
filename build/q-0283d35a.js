@@ -1,0 +1,1 @@
+import{L as e}from"./q-f1c8b9e0.js";import{$ as r,B as a}from"./q-a14e1278.js";const o=()=>r("header",{children:r("nav",{className:"p-5 border-b border-gray-800",children:r(e,{className:"font-bold text-2xl",href:"/",children:"A-Emile",[a]:{className:!0,href:!0}})})});export{o as s_gfgbsab0fbw};

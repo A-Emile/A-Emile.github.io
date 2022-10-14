@@ -1,0 +1,1 @@
+import{$ as e}from"./q-a14e1278.js";const r=()=>e("footer",{className:"border-gray-800 border-t text-gray-600 flex justify-center items-center p-5",children:e("div",{children:e("a",{href:"https://github.com/A-Emile",target:"_blank",children:["Made with ",e("font",{className:"text-red-500",children:"\u2661"})," by A-Emile"]})})});export{r as s_gytQY3Tt2No};
