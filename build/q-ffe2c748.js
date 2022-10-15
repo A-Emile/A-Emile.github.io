@@ -1,0 +1,1 @@
+import{$ as e,f as m}from"./q-26c7caee.js";const a=({...t})=>e("button",{...t,className:`px-5 py-3 mt-5 hover:bg-sky-600 text-white font-semibold text-lg rounded-md bg-primary ${t.animate}`,children:m(t,"text")});export{a as s_lCqi8By2pP8};

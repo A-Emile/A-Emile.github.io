@@ -1,0 +1,1 @@
+import{b as e,U as o,_}from"./q-26c7caee.js";const r=e(o(()=>_(()=>import("./q-4797639f.js"),["build/q-4797639f.js","build/q-26c7caee.js","build/q-37ebdefe.css"]),"s_n88Il0xlwkk")),a=({head:t})=>({title:`${t.title} - A-Emile`});export{r as default,a as head};
