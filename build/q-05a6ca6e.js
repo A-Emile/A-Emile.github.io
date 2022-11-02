@@ -1,0 +1,3 @@
+import{j as t,F as r}from"./q-90d8e323.js";const c=[{text:"Zauberhafte Welten",id:"zauberhafte-welten",level:1}],l={title:"Zauberhafte Welten",meta:[],styles:[],links:[],frontmatter:{}},o={title:"Zauberhafte Welten"};function a(n){const e=Object.assign({p:"p",img:"img",h1:"h1",a:"a"},n.components);return t(r,{children:[t(e.p,{children:t(e.img,{src:"/projects/zw/cover.jpg",alt:"Cover image"})}),`
+`,t(e.h1,{id:"zauberhafte-welten",children:t(e.a,{href:"https://github.com/A-Emile/zauberhafte-welten",children:"Zauberhafte Welten"})}),`
+`,t(e.p,{children:"Website for zauberhafte Welten"})]})}function h(n={}){const{wrapper:e}=n.components||{};return e?t(e,Object.assign({},n,{children:t(a,n)})):a(n)}export{h as default,o as frontmatter,l as head,c as headings};

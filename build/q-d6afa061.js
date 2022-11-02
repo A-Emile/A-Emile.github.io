@@ -1,0 +1,1 @@
+import{c as o,q as e,_ as r}from"./q-90d8e323.js";const l=o(e(()=>r(()=>import("./q-57aa614a.js"),["build/q-57aa614a.js","build/q-90d8e323.js","build/q-4f49a121.css"]),"s_gcaDSqvBbBc")),_=({head:t})=>(console.log(t.frontmatter),{title:t.title});export{l as default,_ as head};

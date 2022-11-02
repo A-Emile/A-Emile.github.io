@@ -1,0 +1,1 @@
+import{c as r,q as t,_ as e}from"./q-90d8e323.js";const _=async({response:o})=>{throw o.redirect("/blog")},a=r(t(()=>e(()=>import("./q-8728b498.js"),["build/q-8728b498.js","build/q-90d8e323.js","build/q-4f49a121.css"]),"s_5xuJs7qGr20"));export{a as default,_ as onGet};

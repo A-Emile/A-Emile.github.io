@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://a-emile.dedyn.io/</loc></url>
-<url><loc>https://a-emile.dedyn.io/projects/zauberhafte-welten</loc></url>
 <url><loc>https://a-emile.dedyn.io/contact</loc></url>
-<url><loc>https://a-emile.dedyn.io/projects/portfolio</loc></url>
-<url><loc>https://a-emile.dedyn.io/projects</loc></url>
 <url><loc>https://a-emile.dedyn.io/projects/clonlio</loc></url>
+<url><loc>https://a-emile.dedyn.io/projects/portfolio</loc></url>
+<url><loc>https://a-emile.dedyn.io/blog</loc></url>
+<url><loc>https://a-emile.dedyn.io/projects/zauberhafte-welten</loc></url>
+<url><loc>https://a-emile.dedyn.io/</loc></url>
+<url><loc>https://a-emile.dedyn.io/blog/posts/clonlio</loc></url>
+<url><loc>https://a-emile.dedyn.io/projects</loc></url>
 </urlset>

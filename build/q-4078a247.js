@@ -1,1 +1,0 @@
-import{b as t,U as o,_ as e}from"./q-26c7caee.js";const a=t(o(()=>e(()=>import("./q-25a67cdc.js"),["build/q-25a67cdc.js","build/q-26c7caee.js","build/q-37ebdefe.css","build/q-02269a9a.js"]),"s_8Rpfd0r0WjQ")),i={title:"Contact - A-Emile"};export{a as default,i as head};

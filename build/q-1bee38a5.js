@@ -1,0 +1,1 @@
+import{j as a,k as e}from"./q-90d8e323.js";const m=({...t})=>a("button",{...t,className:`px-5 py-3 mt-5 active:translate-y-0.5 text-white font-semibold text-lg rounded-md bg-primary ${t.className}`,children:e(t,"text")});export{m as s_34pKgTA1pn8};
